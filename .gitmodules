@@ -1,0 +1,3 @@
+[submodule "digitalocean-debian-to-arch"]
+	path = digitalocean-debian-to-arch
+	url = https://github.com/aidanharris/digitalocean-debian-to-arch.git
